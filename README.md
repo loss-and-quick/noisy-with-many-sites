@@ -1,8 +1,8 @@
-==============================================================
-This is not my program!
-I simply modified it, or rather added sites to the filter list
-Original author:[1tayH](https://github.com/1tayH)
-==============================================================
+
+#This is not my program!
+#I simply modified it, or rather added sites to the filter list
+#Original author:[1tayH](https://github.com/1tayH)
+
 # Noisy
 [![CircleCI](https://circleci.com/gh/1tayH/noisy/tree/master.svg?style=shield)](https://circleci.com/gh/1tayH/noisy/tree/master)
 
