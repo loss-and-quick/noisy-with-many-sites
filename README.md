@@ -1,4 +1,8 @@
-
+==============================================================
+This is not my program!
+I simply modified it, or rather added sites to the filter list
+Original author:[1tayH](https://github.com/1tayH)
+==============================================================
 # Noisy
 [![CircleCI](https://circleci.com/gh/1tayH/noisy/tree/master.svg?style=shield)](https://circleci.com/gh/1tayH/noisy/tree/master)
 
@@ -22,7 +26,7 @@ pip install requests
 
 Clone the repository
 ```
-git clone https://github.com/1tayH/noisy.git
+git clone https://github.com/minibox161/noisy-with-many-sites.git
 ```
 
 Navigate into the `noisy` directory
